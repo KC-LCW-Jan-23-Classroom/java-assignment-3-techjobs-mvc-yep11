@@ -28,7 +28,7 @@ Before you start working, check out our [Working Demo App](https://java-techjobs
 The app occasionally restarts. If you experience an error, please wait a few minutes before refreshing the page.
  
 1. Start the application.
-1. Test the search functionality of the project:
+2Test the search functionality of the project:
 
     a. Initiate a search by location, using the search term "new york". Only 1 result should be returned on the page. The result may vary in appearance, but make sure it contains the job data organized similar to this image:
 
@@ -42,7 +42,7 @@ The app occasionally restarts. If you experience an error, please wait a few min
     
     e. Search for the same term, "Ruby" with the "Skill" category checked. This time, only 3 results should be returned.
 
-1. View the method for displaying the search results tested above.
+3View the method for displaying the search results tested above.
 
     a. Be sure you can point to the method within `SearchController`.
     
@@ -52,7 +52,7 @@ The app occasionally restarts. If you experience an error, please wait a few min
     
     d. What strategy did you use to display the jobs. Did you create one table for all of the jobs displayed or one table per job?
  
-1. Back in the running app, navigate to the ``List`` view and select *View All*.
+4Back in the running app, navigate to the ``List`` view and select *View All*.
 
     a. A view of all 98 jobs should be returned.
 
